@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(119, 113, 113);
+
+}
+header h1 {
+   color: darkred;
+   font-size: 45px;
+   text-align: center;
+}
+header nav ul li {
+    display: inline-block;
+    padding: 25px;
+    
+
+    
+
+}
+a {
+    color:black;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+article section p {
+    color: rgb(27, 6, 27);
+    font-style: unset;
+    font-size: 20px;
+
+
+}
+article section h2{
+    color: rgb(141, 8, 8);
+    font-size: 27px;
+    font-style: oblique;
+
+}
+footer{
+    font-size: 17px;
+}
