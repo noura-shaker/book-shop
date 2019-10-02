@@ -21,6 +21,10 @@ a {
     font-style: italic;
 
 }
+img{
+    width:200px;
+    height: 200px;
+}
 
 article section p {
     color: rgb(27, 6, 27);

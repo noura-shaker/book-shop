@@ -16,12 +16,15 @@ function ShowMessage(firstName, lastName) {
 
 ShowMessage("im","noura", "shaker");
 var txt;
-var r = confirm("Press a button!");
+var r = confirm("do you like books?");
 if (r == true) {
-  txt = "You pressed OK!";
+  txt = "good for your mind";
 } else {
-  txt = "You pressed Cancel!";
-}
+ } txt = "You should";
+ 
+
+ 
+
 
 
 
