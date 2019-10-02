@@ -14,10 +14,7 @@ function ShowMessage(firstName, lastName) {
     alert("Hello " + firstName + " " + lastName);
 }
 
-ShowMessage("Steve", "Jobs");
-ShowMessage("Bill", "Gates");
-ShowMessage(100, 200);
-
+ShowMessage("im","noura", "shaker");
 var txt;
 var r = confirm("Press a button!");
 if (r == true) {
@@ -25,3 +22,6 @@ if (r == true) {
 } else {
   txt = "You pressed Cancel!";
 }
+
+
+
