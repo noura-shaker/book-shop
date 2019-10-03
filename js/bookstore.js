@@ -22,3 +22,11 @@ function bookshop () {
     return h;
 
 }
+
+var time = prompt("Anytime you like to come to the library??");
+var text = "";
+var i;
+for (i = 1; i < 10; i++) {
+  text += " i will come at " + i + "<br>"
+}
+
