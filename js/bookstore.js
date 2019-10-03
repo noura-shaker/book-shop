@@ -26,7 +26,15 @@ function bookshop () {
 var time = prompt("Anytime you like to come to the library??");
 var text = "";
 var i;
-for (i = 1; i < 10; i++) {
-  text += " i will come at " + i + "<br>"
-}
+for 
+(i =0; i <time; i++) {
+  document.write( " i will come at "+time +"<br>")
+
+  } 
+  
+
+  
+    
+  
+  
 
